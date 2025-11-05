@@ -1,2 +1,6 @@
 Flask==3.0.0
+<<<<<<< HEAD
 psycopg2-binary==2.9.10
+=======
+psycopg2-binary==2.9.9
+>>>>>>> f9525fd37c2ec7f601800ef0f32430a832a788ca
